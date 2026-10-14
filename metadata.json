@@ -1,0 +1,6 @@
+{
+  "name": "VTV (Voice2Video)",
+  "description": "Convert audio recordings to videos with centered title and timestamps, matching file dates, and progress feedback. Designed by Phubet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

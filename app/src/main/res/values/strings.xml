@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VTV (Voice2Video)</string>
+    <string name="designed_by">Designed by Phubet</string>
+    <string name="select_files">Select Audio Files</string>
+    <string name="select_folder">Select Audio Folder</string>
+    <string name="convert_to_video">Convert to Video</string>
+    <string name="delete_after_convert">Delete audio after successful conversion</string>
+    <string name="converting">Converting...</string>
+    <string name="completed">Completed</string>
+    <string name="cancel">Cancel</string>
+</resources>

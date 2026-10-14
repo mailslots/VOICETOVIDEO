@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.65"
+        android:scaleY="0.65"
+        android:translateX="18.9"
+        android:translateY="18.9">
+        <!-- Outer Video Container Card -->
+        <path
+            android:fillColor="#1E293B"
+            android:pathData="M16,24 h76 a12,12 0 0,1 12,12 v36 a12,12 0 0,1 -12,12 h-76 a12,12 0 0,1 -12,-12 v-36 a12,12 0 0,1 12,-12 z" />
+        
+        <!-- Cyan Border Accent -->
+        <path
+            android:fillColor="#00000000"
+            android:strokeColor="#38BDF8"
+            android:strokeWidth="3.5"
+            android:pathData="M16,24 h76 a12,12 0 0,1 12,12 v36 a12,12 0 0,1 -12,12 h-76 a12,12 0 0,1 -12,-12 v-36 a12,12 0 0,1 12,-12 z" />
+
+        <!-- Sound Wave Bars (Audio) -->
+        <path
+            android:fillColor="#38BDF8"
+            android:pathData="M24,46 h4 v16 h-4 z" />
+        <path
+            android:fillColor="#38BDF8"
+            android:pathData="M32,38 h4 v32 h-4 z" />
+        <path
+            android:fillColor="#818CF8"
+            android:pathData="M40,32 h4 v44 h-4 z" />
+
+        <!-- Big Play Button Center (Video Conversion) -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M52,38 L72,54 L52,70 Z" />
+
+        <!-- Sound Wave Bars Right -->
+        <path
+            android:fillColor="#818CF8"
+            android:pathData="M78,40 h4 v28 h-4 z" />
+        <path
+            android:fillColor="#38BDF8"
+            android:pathData="M86,47 h4 v14 h-4 z" />
+    </group>
+</vector>
